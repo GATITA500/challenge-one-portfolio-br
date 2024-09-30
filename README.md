@@ -1,26 +1,24 @@
-# Challenge ONE | Front End - Portfólio
----
+# Challenge ONE | Front End -  Portafolio
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/168887837-b6d26532-6782-48dc-92eb-e48bf6c57a15.png">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169097543-d5ada41e-7db8-481d-9d89-cef4efdf7e05.png">
 </p>
 
-###  Primeiros Passos:
+
+### ¡Bienvenido al proyecto base del Portafolio ! Pasos principales:
 ---
-#### 🔹Marque esse projeto com uma ⭐
-#### 🔹Siga as orientações do que temos neste repositório 📚
+#### Marca este proyecto con una estrella ⭐
+#### Sigue las lecciones y las instrucciones de contenido 📚
 
-
-### Analisando nosso repositório!
+### Analisando el repositorio!
 ---
-### Este repositório base é uma sugestão inicial, caso você ainda não tenha um layout que reflita seu estilo e personalidade. Sinta-se à vontade para modificar seu portfólio conforme desejar, aqui você encontrará:
-#### 🔹index.html: Documento HTML finalizado que você pode utilizar em seu projeto. Fonte, CSS e JavaScript já linkado e todas as sessões comentadas. Sinta-se a vontade para executar o seu próprio HTML caso deseje;
-#### 🔹style.css: Documento de CSS com instruções de estilo e também algumas sugestões para seu desenvolvimento
-#### 🔹script.js: Documento vazio para que possa aplicar sua lógica de validação de formulário. ESSA VALIDAÇÃO É CONSIDERADA UM DESAFIO EXTRA POR ISSO NÃO É OBRIGATORIA SUA IMPLEMENTAÇÃO.
-#### Ao clonar, ou realizar o download do projeto base, você tera essa apresentação:
+### Este repositorio base es una sugerencia inicial, en caso de que aún no tengas un diseño que refleje tu estilo y personalidad. Siéntete libre de modificar tu portafolio como desees, aquí encontrarás:
+#### 🔹index.html: Documento HTML concluído que puedes utilizar en tu proyecto. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento y todas las secciones contienen comentários que te ayudan a entender la estructura. Si quieres, puedes aventurarte y contruir tu propio HTML.
+#### 🔹style.css: Documento de CSS con instrucciones de estilo y algunas sugerencias de desarrollo.
+#### 🔹script.js: Documento vacío dónde puedes desarrollar tu lógica para validar el formulário, ESTA VALIDACIÓN ES CONSIDERADA UN DESAFÍO EXTRA POR LO QUE NO ES OBLIGATÓRIA SU IMPLEMENTACIÓN.
 
-
+#### Cuando clones o descargues el proyecto base, tendrás la siguiente presentación:
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/168888313-d031e9e1-1449-4b73-bd3c-3102223097f3.png">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169064699-f268715c-822c-4335-b066-97a1bc1ea8e1.png">
 </p>
 
